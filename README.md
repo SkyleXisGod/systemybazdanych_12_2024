@@ -30,8 +30,8 @@ Projekt tej strony internetowej pozwoli graczom Valorant na zaangażowanie się 
 
 # Członkowie: Mateusz Kuśmierski ( database guy ) oraz Kacper Zagłoba ( upo programista ).
 # L I N K I : 
-Miejsce na link do github: ---------
+Miejsce na link do github: [GITHUB](https://github.com/SkyleXisGod/systemybazdanych_12_2024/blob/main/README.md)
 
-Miejsce na link do schematu bazy: ---------
+Miejsce na link do schematu bazy: [BAZA]()
 
 Miejsce na kontakt do Kacpra: theonlysky <- discord.
