@@ -118,7 +118,7 @@ $conn->close();
         <div class="link-grid">
             <a href="agentstip.php" class="link-box"><img src="ICONS\agents-icon.png" alt="agents-logo" width="230px" heigth="230px"></a><br><br><br><br>
             <a href="techtip.php" class="link-box"><img src="ICONS\valorant-tech.png" alt="valorant-tech" width="200px" heigth="200px"></a><br><br><br><br>
-            <a href="guntip.php" class="link-box"><img src="ICONS\gun-icon.png" alt="gun-logo" width="350px" heigth="100px"></a><br><br><br><br>
+            <a href="#" class="link-box"><img src="ICONS\gun-icon.png" alt="gun-logo" width="350px" heigth="100px"></a><br><br><br><br>
         </div>
         <div class="link-grid">
             <a href="crosshairtip.php" class="link-box"><img src="ICONS\crosshair-icon.png" alt="crosshair-logo" width="250px" heigth="250px"></a><br><br><br><br>
