@@ -35,3 +35,5 @@ Miejsce na link do github: [GITHUB](https://github.com/SkyleXisGod/systemybazdan
 Miejsce na link do schematu bazy: [BAZA]()
 
 Miejsce na kontakt do Kacpra: theonlysky <- discord.
+
+# UWAGA! Wymaga XAMPP ( MySQL ( razem z bazą danych ) oraz PHP ).
