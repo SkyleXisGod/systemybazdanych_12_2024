@@ -36,4 +36,4 @@ Miejsce na link do schematu bazy: [BAZA]()
 
 Miejsce na kontakt do Kacpra: theonlysky <- discord.
 
-# UWAGA! Wymaga XAMPP ( MySQL {razem z bazą danych} oraz PHP ).
+# UWAGA! Wymaga XAMPP (MySQL {razem z bazą danych} oraz PHP).
